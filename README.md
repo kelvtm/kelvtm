@@ -25,34 +25,16 @@ I enjoy learning, experimenting, and continuously improving my engineering depth
 - GitHub Actions  
 - SonarQube (Code Quality & Security)
 
-### 💻 **Software Development**
-- **Full-Stack:** Vue.js, Node.js (Express), MongoDB, PostgreSQL  
+### 📦 **Other Skills**
+- System design fundamentals  
+- **Full-Stack:** Vue.js, Node.js (Express), MongoDB, PostgreSQL
 - **API Development:** REST, GraphQL  
 - **Real-Time Systems:** Socket.IO  
 - **Testing:** Jest, Postman
 
-### 📦 **Other Skills**
-- Docker registry management  
-- System design fundamentals  
-- Microservices basics  
-- Documentation & technical writing  
-
----
-
-## 🌱 What I'm Currently Working On
-- Building a complete **DevOps learning lab** with Terraform, Kubernetes, Helm & GitOps.  
-- Developing **StudySync** — a full-stack productivity web app using real-time peer support.
-
----
-
-## 🚀 Projects
+## 🚀 Current Project
 - **Studysync — Real-time Productivity App**  
   Vue.js, Express, MongoDB, Socket.IO, WebSockets, Kubernetes, Terraform (in progress)
-
-- **Hospital Management System (HMS)**  
-  Vue.js, Node.js, PostgreSQL, Docker, GitLab, GraphQL 
-
----
 
 Thanks for visiting my profile!
 
