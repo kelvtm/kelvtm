@@ -27,7 +27,7 @@ I enjoy learning, experimenting, and continuously improving my engineering depth
 
 ### 📦 **Other Skills**
 - System design fundamentals  
-- **Full-Stack:** Vue.js, Node.js (Express), MongoDB, PostgreSQL
+- **Full-Stack:** Vue.js, Next.js, Node.js (Express), MongoDB, PostgreSQL
 - **API Development:** REST, GraphQL  
 - **Real-Time Systems:** Socket.IO  
 - **Testing:** Jest, Postman
